@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
