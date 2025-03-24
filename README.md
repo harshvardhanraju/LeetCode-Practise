@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1206-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1206-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
+| [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
