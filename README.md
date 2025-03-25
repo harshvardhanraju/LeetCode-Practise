@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -123,8 +124,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
