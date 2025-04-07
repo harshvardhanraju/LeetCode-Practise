@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -132,9 +133,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
