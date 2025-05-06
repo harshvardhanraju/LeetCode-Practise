@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0733-flood-fill) |
