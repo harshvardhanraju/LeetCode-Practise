@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
