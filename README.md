@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
@@ -138,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
