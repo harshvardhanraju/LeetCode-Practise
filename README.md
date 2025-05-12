@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
+| [1138-grumpy-bookstore-owner](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1206-corporate-flight-bookings) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
