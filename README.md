@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 ## Bucket Sort
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
@@ -216,9 +219,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
+| [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
