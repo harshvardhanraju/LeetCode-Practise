@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1138-grumpy-bookstore-owner](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1206-corporate-flight-bookings) |
+| [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
+| [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
