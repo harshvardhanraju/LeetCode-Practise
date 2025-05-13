@@ -7,9 +7,6 @@ class Solution:
 
         # grid/graph matrix needs to be created
         graph = defaultdict(list)
-        # for prob, (u, v)  in enumerate(edges):
-        #     graph[u].append((v, prob[i]))
-        #     graph[v].append((u, prob[i]))
         for (u, v), prob in zip(edges, succProb):
             graph[u].append((v, prob))
             graph[v].append((u, prob))  # undirected
@@ -24,11 +21,9 @@ class Solution:
             if u == end_node:
                 return curr_prob
 
-            # if new_dist < dist[u]: #skip and dont update
-            #     continue
             for v, prob in graph[u]:
-                if dist[v] < curr_prob * prob: #i.e older path was longer, then update to new
-                    dist[v] = curr_prob * prob
+                if dist[v] < dist[u] * prob: #i.e older path was longer, then update to new
+                    dist[v] = dist[u] * prob
                     heapq.heappush(max_heap, (-dist[v], v))
         
         
