@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
