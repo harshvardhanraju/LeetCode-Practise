@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0890-lemonade-change) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Union Find
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Simulation
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0278-first-bad-version) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
