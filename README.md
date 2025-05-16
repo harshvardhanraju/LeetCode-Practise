@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
+| [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0733-flood-fill) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0890-lemonade-change) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Union Find
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
