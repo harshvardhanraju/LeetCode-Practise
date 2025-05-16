@@ -5,11 +5,10 @@ class Solution:
         min_jumps = [float('inf')] * n
         min_jumps[0] = 0 #starting pos is 0th index
 
-        for i, val in enumerate(nums):
-            for j in range(i + 1, min(i + val + 1, n)):
-                cur_jump =  min_jumps[i] + 1
-                min_jumps[j] = min(cur_jump, min_jumps[j])
-        
+        for i in range(n):
+            for j in range(i + 1, min(i + nums[i] + 1, n)):
+                min_jumps[j] = min(min_jumps[j], min_jumps[i] + 1)
+                
         print(min_jumps)
         return min_jumps[-1]
         
