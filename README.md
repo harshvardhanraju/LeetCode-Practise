@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0890-lemonade-change) |
 ## Union Find
 |  |
 | ------- |
