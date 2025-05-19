@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0890-lemonade-change) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Union Find
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0523-continuous-subarray-sum) |
+| [0670-maximum-swap](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1013-fibonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Simulation
