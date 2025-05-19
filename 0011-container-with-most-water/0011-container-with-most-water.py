@@ -3,7 +3,7 @@ class Solution:
         l, r = 0, len(height)-1
         area = 0
         max_area = 0
-        for i in range(len(height)):
+        while l < r:
             area = (r-l) * min(height[r], height[l])
             max_area = max(max_area, area)
             if height[l] < height[r]:
