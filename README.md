@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0070-climbing-stairs) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
 ## Shortest Path
