@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
