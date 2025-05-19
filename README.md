@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
