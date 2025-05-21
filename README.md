@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3113-beautiful-towers-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3114-beautiful-towers-i) |
 ## Binary Search
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
+| [3113-beautiful-towers-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3114-beautiful-towers-i) |
 ## Math
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0883-car-fleet) |
+| [3113-beautiful-towers-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3114-beautiful-towers-i) |
 ## Shortest Path
 |  |
