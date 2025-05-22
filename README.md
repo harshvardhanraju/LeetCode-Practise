@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
