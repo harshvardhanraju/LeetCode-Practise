@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0128-longest-consecutive-sequence) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0342-power-of-four) |
 ## Depth-First Search
@@ -315,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
