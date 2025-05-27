@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0424-longest-repeating-character-replacement) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
@@ -324,5 +328,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
