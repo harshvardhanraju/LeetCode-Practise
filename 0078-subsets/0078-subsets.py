@@ -2,7 +2,7 @@ class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res = [] 
         subset = []
-
+        nums.sort()
         def recurse_set(nums, i, subset, res):
             if i == len(nums):
                 res.append(list(subset))
