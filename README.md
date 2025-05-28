@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
+| [1127-last-stone-weight](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1206-corporate-flight-bookings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
