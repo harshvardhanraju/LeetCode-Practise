@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0090-subsets-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0091-decode-ways) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0670-maximum-swap) |
