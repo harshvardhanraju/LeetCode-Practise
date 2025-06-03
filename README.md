@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 | [3113-beautiful-towers-ii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/3114-beautiful-towers-i) |
 ## Binary Search
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/harshvardhanraju/LeetCode-Practise/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
