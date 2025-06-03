@@ -1,14 +1,21 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        # DP approach
-        min_jumps = [float('inf')] * n
-        min_jumps[0] = 0 #starting pos is 0th index
+        jumps = 0
+        farthest = 0
+        cur_end = 0
+        if len(nums) == 1:
+            return 0
+        
+        for idx, val in enumerate(nums[:-1]):
+            farthest = max(farthest, idx + val)
+            if idx == cur_end:
+                jumps += 1
+                cur_end = farthest
 
-        for i in range(n):
-            for j in range(i + 1, min(i + nums[i] + 1, n)):
-                min_jumps[j] = min(min_jumps[j], min_jumps[i] + 1)
-                
-        print(min_jumps)
-        return min_jumps[-1]
+        return jumps
+            
+
+
+        
         
